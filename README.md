@@ -1,5 +1,6 @@
 ## easy-clickfix
-educational repository demonstrating clickfix social engineering techniques for security research and awareness.
+clickfix is a social engineering attack that tricks users into running malicious commands by displaying fake error messages.
+it can be applied through compromised websites, phishing emails, or malicious ads that present fake system warnings with step-by-step instructions to execute payloads via powershell/cmd/terminal; it's highly effective because it bypasses traditional security measures by exploiting human trust rather than technical vulnerabilities, making it a dangerous technique from an attacker's perspective and a critical threat that security professionals need to understand and defend against.
 
 <p align="center">  <img src="https://i.pinimg.com/736x/fc/cd/c3/fccdc39dd11223c1af0eeb5792650232.jpg" alt="goplant" width="200" /></p>
 
